@@ -110,30 +110,26 @@
 
 ---
 
-## 📊 GitHub Statistics
+---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajpootshivam21014-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpootshivam21014-beep&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 My GitHub Journey
+
+| Category | Details |
+|---|---|
+| 👨‍💻 Developer | MERN Stack Developer |
+| ⚛️ Frontend | React.js, JavaScript |
+| 🖥️ Backend | Node.js, Express.js |
+| 🗄️ Database | MongoDB, Firebase |
+| 🛠️ Tools | Git, GitHub, VS Code |
 
 ---
 
+## 🏆 My Developer Goals
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajpootshivam21014-beep&show_icons=true&theme=tokyonight" height="180" />
-</p>
-
----
-
-
-## 🏆 My GitHub Journey
-
-- 🚀 Building projects with React.js
-- 💻 Practicing JavaScript and Node.js
-- 🌱 Learning Full Stack Development
+- 🚀 Build real-world web applications.
+- 💻 Improve my problem-solving skills.
+- 🌱 Learn advanced MERN Stack technologies.
+- 🎯 Become a professional Full Stack Developer.
 - 🎯 Improving my coding skills every day
 
 ---
