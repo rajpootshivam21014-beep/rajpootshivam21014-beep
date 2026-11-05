@@ -119,19 +119,22 @@
 
 ---
 
-## 🔥 GitHub Contribution Streak
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajpootshivam21014-beep&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajpootshivam21014-beep&show_icons=true&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajpootshivam21014-beep&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+## 🏆 My GitHub Journey
+
+- 🚀 Building projects with React.js
+- 💻 Practicing JavaScript and Node.js
+- 🌱 Learning Full Stack Development
+- 🎯 Improving my coding skills every day
 
 ---
 
